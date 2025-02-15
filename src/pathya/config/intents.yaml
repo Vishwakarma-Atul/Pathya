@@ -1,0 +1,11 @@
+intents:
+  order_status:
+    patterns:
+      - 'where is my order'
+      - 'track my order'
+      - 'order status'
+
+  order_details:
+    patterns:
+      - 'order details for (\\d+)'
+      - 'order (\\d+) info'
