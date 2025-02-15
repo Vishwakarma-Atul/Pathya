@@ -1,0 +1,6 @@
+order_id,customer_id,status,delivery_date,product,amount
+ORD001,CUST101,delivered,2024-01-15,Product A,150.00
+ORD002,CUST101,processing,2024-02-01,Product B,299.99
+ORD003,CUST102,shipped,2024-01-28,Product C,75.50
+ORD004,CUST103,pending,2024-02-05,Product A,150.00
+ORD005,CUST102,delivered,2024-01-20,Product D,499.99
